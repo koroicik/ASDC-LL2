@@ -1,5 +1,0 @@
-3 apple
-1 banana
-5 orange
-2 lemon
-4 peach
